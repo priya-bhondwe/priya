@@ -52,6 +52,6 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="[https://priya.vercel.app/](https://priyab-portfolio.vercel.app/)" target="_blank"><img alt="Github" src="" height="30px" /></a> 
+<p><a href="https://priyab-portfolio.vercel.app/" target="_blank"><img alt="priya-tech" src="" height="30px" /></a> 
   <a href="https://www.linkedin.com/in/priya-b-b52042196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 </div>
